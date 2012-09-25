@@ -1,0 +1,31 @@
+{
+  "name": "collectd-carbon",
+  "description": "Installs/Configures carbon writer as plugin for collectd",
+  "long_description": "= DESCRIPTION:\n",
+  "maintainer": "Patrick Debois",
+  "maintainer_email": "Patrick.Debois@jedi.be",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": ">= 0.0.0"
+  },
+  "dependencies": {
+    "git": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.0.1"
+}
